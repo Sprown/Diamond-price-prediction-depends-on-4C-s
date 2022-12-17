@@ -1,6 +1,6 @@
-# Diamond-price-prediction-depends-on-4Cs
-This repo is to predict the price of the diamond using Machine Learning model based on 4C's.
-4Cs of Diamond (Cut, Color, clarity, Carat)
+# Diamond-price-prediction-depends-on-4Cs<br>
+This repo is to predict the price of the diamond using Machine Learning model based on 4C's.<br>
+4Cs of Diamond (Cut, Color, clarity, Carat)<br><br>
 
 For this project:
  If you are a beginner:
