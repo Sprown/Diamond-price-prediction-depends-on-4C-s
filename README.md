@@ -10,7 +10,7 @@ This repo is to predict the price of the diamond using <b>Machine Learning model
 <br>How to use jupyter notebook  [<kbd> <br> See Video <br> </kbd>][See Video] <br>
 
  
-open powershell window in system32 folder of you C drive
+open powershell window in system32 folder of your C drive
  
 pip install 
 <br>[ pandas, matplotlib, seaborn, numpy, scikit-learn ]
